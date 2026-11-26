@@ -3,21 +3,19 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C084FC&center=true&vCenter=true&width=520&lines=Halo%2C+Selamat+Datang+di+Profil+Saya!;Ngoding%2C+Ngopi%2C+dan+Membangun+Karya;Web+Development+%26+Anime+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C084FC&center=true&vCenter=true&width=520&lines=Halo%2C+Selamat+Datang+di+Profil+Saya!;Ngoding%2C+Ngopi%2C+dan+Membangun+Dramok;Web+Development+%26+Anime+Lover" alt="Typing SVG" />
+  <br/>
+  <img width="320" src="./ezgif-4d7b4f29511590dd.gif" alt="Anime GIF" />
 </div>
 
 <br/>
 
-<img align="right" width="280" src="./waguri-kaoruko.gif" alt="Waguri Kaoruko GIF" />
-
 ### 👋 Tentang Saya
-- 🔭 Saat ini sedang mengerjakan proyek **[Fishing-Adventure](https://github.com/SanLierbert/Fishing-Adventure)**
+- 🔭 Saat ini sedang mengerjakan proyek **
 - 🌱 Sedang mendalami **Web Development (HTML, CSS, JS)**
-- 💬 Silakan tanya saya seputar **Web Dev atau rekomendasi anime**
-- ⚡ Fakta unik: *Lebih produktif ngoding sambil dengerin lagu lo-fi*
-- 📫 Kontak: **[emailkamu@example.com](mailto:emailkamu@example.com)**
-
-<br clear="both"/>
+- 💬 Silakan tanya saya seputar **Web Dev **
+- ⚡ Fakta unik: *Lebih produktif Yapping sambil mecut ai       **
+- 📫 Kontak: **[ihsannahar246@](mailto:ihsannahar246@gmail.com)**
 
 ---
 
